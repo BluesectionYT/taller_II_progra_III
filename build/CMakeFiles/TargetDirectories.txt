@@ -1,0 +1,3 @@
+/home/dasblueasus/Documentos/Programacion/taller_II_progra_III/build/CMakeFiles/taller_II_progra_III.dir
+/home/dasblueasus/Documentos/Programacion/taller_II_progra_III/build/CMakeFiles/edit_cache.dir
+/home/dasblueasus/Documentos/Programacion/taller_II_progra_III/build/CMakeFiles/rebuild_cache.dir
