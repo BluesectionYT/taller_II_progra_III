@@ -54,7 +54,7 @@ brew install cmake
 ## Verificar instalación (cualquier SO)
 
 ```bash
-g++ --version      # o clang++ --version en Mac
+g++ --version 
 cmake --version
 ```
 
@@ -73,7 +73,6 @@ Si agregás un archivo `.cpp` nuevo, o cambiás el `CMakeLists.txt`, hay que vol
 Si el build queda en un estado raro (errores de configuración a medio camino):
 
 ```bash
-# desde la raíz del proyecto, no desde dentro de build/
 rm -rf build
 mkdir build && cd build
 cmake ..
