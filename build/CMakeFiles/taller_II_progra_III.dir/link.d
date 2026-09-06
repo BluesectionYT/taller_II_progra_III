@@ -2,8 +2,7 @@ taller_II_progra_III: \
   /usr/lib/gcc/x86_64-redhat-linux/16/../../../../lib64/crt1.o \
   /usr/lib/gcc/x86_64-redhat-linux/16/../../../../lib64/crti.o \
   /usr/lib/gcc/x86_64-redhat-linux/16/crtbegin.o \
-  CMakeFiles/taller_II_progra_III.dir/src/model/Prueba.cpp.o \
-  CMakeFiles/taller_II_progra_III.dir/src/runner/main.cpp.o \
+  CMakeFiles/taller_II_progra_III.dir/src/runner/Run.cpp.o \
   /usr/lib/gcc/x86_64-redhat-linux/16/libstdc++.so \
   /usr/lib/gcc/x86_64-redhat-linux/16/../../../../lib64/libm.so \
   /usr/lib/gcc/x86_64-redhat-linux/16/../../../../lib64/libm.so \
@@ -45,9 +44,7 @@ taller_II_progra_III: \
 
 /usr/lib/gcc/x86_64-redhat-linux/16/crtbegin.o:
 
-CMakeFiles/taller_II_progra_III.dir/src/model/Prueba.cpp.o:
-
-CMakeFiles/taller_II_progra_III.dir/src/runner/main.cpp.o:
+CMakeFiles/taller_II_progra_III.dir/src/runner/Run.cpp.o:
 
 /usr/lib/gcc/x86_64-redhat-linux/16/libstdc++.so:
 

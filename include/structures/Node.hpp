@@ -1,14 +1,16 @@
 #pragma once
+#include <string>
 
+namespace structures {
 template <typename T>
-class Node {
+    class Node {
     private:
         T value;
         Node<T>* next;
     public:
-        Node(){
-            value = null;
-            next = new Node<T>();
+        Node(T value) {
+            this->value = value;
+            this->next = nullptr;
         }
 
         T getValue() {
@@ -16,7 +18,7 @@ class Node {
         }
 
         void setValue(T value) {
-            this.value = value;
+            this->value = value;
         }
 
         Node<T>* getNext() {
@@ -24,10 +26,11 @@ class Node {
         }
 
         void setNext(Node<T>* next) {
-            this.next = next;
+            this->next = next;
         }
 
-        string toString() {
-            return value + " " + next.toString();
+        std::string toString() {
+            return value + " " + next->toString();
         }
-};
+    };
+}
