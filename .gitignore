@@ -1,1 +1,21 @@
+# Carpeta de build generada por CMake
 build/
+
+# Binarios y objetos compilados (por si compilás algo suelto con g++ a mano)
+*.o
+*.out
+*.exe
+
+# Archivos propios de CMake si generás build en otro lado
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
