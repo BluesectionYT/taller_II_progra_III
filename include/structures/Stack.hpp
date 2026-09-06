@@ -36,5 +36,13 @@ namespace structures {
                 }
                 return result;
             }
+
+            T peek(){
+                return top->getValue();
+            }
+
+            bool isEmpty(){
+                return top == nullptr;
+            }
     };
 }
