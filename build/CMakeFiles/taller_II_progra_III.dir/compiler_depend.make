@@ -230,8 +230,7 @@ taller_II_progra_III: /lib64/ld-linux-x86-64.so.2 \
   /usr/lib/gcc/x86_64-redhat-linux/16/libstdc++.so \
   /usr/lib64/libatomic.so.1.2.0 \
   /usr/lib64/libc_nonshared.a \
-  CMakeFiles/taller_II_progra_III.dir/src/model/Prueba.cpp.o \
-  CMakeFiles/taller_II_progra_III.dir/src/runner/main.cpp.o
+  CMakeFiles/taller_II_progra_III.dir/src/runner/Run.cpp.o
 
 
 /usr/lib64/libc_nonshared.a:
@@ -295,8 +294,6 @@ taller_II_progra_III: /lib64/ld-linux-x86-64.so.2 \
 /usr/include/c++/16/stdexcept:
 
 /usr/include/c++/16/ostream:
-
-CMakeFiles/taller_II_progra_III.dir/src/runner/main.cpp.o:
 
 /usr/include/c++/16/new:
 
@@ -574,8 +571,6 @@ CMakeFiles/taller_II_progra_III.dir/src/runner/main.cpp.o:
 
 /usr/include/c++/16/bit:
 
-CMakeFiles/taller_II_progra_III.dir/src/model/Prueba.cpp.o:
-
 /usr/include/bits/stdlib-float.h:
 
 /usr/include/bits/time64.h:
@@ -607,6 +602,8 @@ CMakeFiles/taller_II_progra_III.dir/src/model/Prueba.cpp.o:
 /usr/include/bits/types/struct_FILE.h:
 
 /usr/include/c++/16/bits/stdexcept_except.h:
+
+CMakeFiles/taller_II_progra_III.dir/src/runner/Run.cpp.o:
 
 /usr/include/c++/16/x86_64-redhat-linux/bits/c++config.h:
 

@@ -30,7 +30,11 @@ template <typename T>
         }
 
         std::string toString() {
-            return value + " " + next->toString();
+            std::string nextValue = " ";
+            if(next != nullptr){
+                nextValue = next->toString();
+            } 
+            return value + " " + nextValue;
         }
     };
 }
