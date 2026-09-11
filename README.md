@@ -1,3 +1,9 @@
+# Informacion del proyecto
+
+## Ejercicio Pila
+
+Este es un ejercicio de la implementacion de la estructura de datos Stack (tambien conocida como Pila) en C++
+
 # Instalación de dependencias — C++ con CMake
 
 ## Linux
