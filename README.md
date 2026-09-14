@@ -2,7 +2,7 @@
 
 ## Ejercicio Pila
 
-Este es un ejercicio de la implementacion de la estructura de datos Stack (tambien conocida como Pila) en C++ usando una arquitectura de capas
+Este es un ejercicio de la implementacion de la estructura de datos Stack (tambien conocida como Pila) en C++ usando una arquitectura de capas y paradigma orientado a objetos con clases genéricas
 
 # Instalación de dependencias — C++ con CMake
 
