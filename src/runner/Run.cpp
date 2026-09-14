@@ -7,8 +7,10 @@ int main() {
 
     std::cout << "--- PRUEBA DE PILA DE LIBROS LEIDOS ---" << std::endl << std::endl;
 
+    //Probar isEmpty()
     std::cout << "¿La pila esta vacia? " << (stackBooks.isEmpty() ? "Si" : "No") << std::endl << std::endl;
 
+    //Probar push() y peek()
     std::cout << "--- Agregando libros a la pila ---" << std::endl;
     
     stackBooks.push("Don Quijote de la Mancha");
@@ -27,6 +29,7 @@ int main() {
         std::cout << "Ultimo libro leido (Peek): " << stackBooks.peek() << std::endl << std::endl;
     }
 
+    //Probar pop()
     std::cout << "--- Desapilando libros ---" << std::endl;
     while (!stackBooks.isEmpty()) {
         std::cout << "Removiendo: " << stackBooks.pop() << std::endl;
